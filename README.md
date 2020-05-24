@@ -5,7 +5,7 @@ In this code, the regression models from sklearn were used to predict the number
 The values in the table are tested on test data at the interval of 15 days till after 2 months
 
 Code 2: 
-This code is a python notebook. This code does feature selection on the training data first by the filter method based on correlation. Further, the filter and wrapper method are used together. The Recursive Feature elimination using Cross-correlation is used for the wrapper method of feature selection
+This code does feature selection on the training data first by the filter method based on correlation. Further, the filter and wrapper method are used together. The Recursive Feature elimination using Cross-correlation is used for the wrapper method of feature selection
 
 DataAnalysis.R:
 This code is to analyze the data in R.(I find it easier than Python.)
